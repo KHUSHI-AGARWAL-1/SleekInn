@@ -1,0 +1,52 @@
+.dashboard-container {
+
+  padding-top: 50px; 
+  margin-bottom: 150px;
+  margin-top: 30px;
+ 
+
+}
+.profile-card{
+  width: 29vw;
+ 
+margin-left: 300px;
+  
+
+}
+.profile-card img{
+
+  width: 5rem;
+    height: 5rem;
+    border-radius: 50px;
+    object-fit: cover;
+}
+.btn{
+  color: var(--Heading-color);
+}
+
+
+
+
+
+.profile-card p{
+  font-size: 1.7rem;
+  margin-bottom: 8px;
+  margin-left: 15px;
+}
+
+
+.profile-card .btn,
+.booking-card .btn {
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+.booking-list {
+  list-style: none;
+  padding: 0;
+}
+
+.booking-list li {
+  font-size: 18px;
+  margin-bottom: 10px;
+}

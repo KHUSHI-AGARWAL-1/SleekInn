@@ -1,0 +1,42 @@
+.footer{
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.footer .logo img{
+    /* width: 80%; */
+    margin-bottom: .8rem;
+    
+}
+.footer .logo p{
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+    white-space: nowrap;
+}
+.social_links span a{
+    text-decoration: none;
+    color: var(--heading-color);
+    margin-bottom: 1rem;
+}
+
+.footer_link-title{
+    color: var(--heading-color);
+    margin-bottom: 1rem;
+
+}
+
+.footer_quick-links li a{
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 1.1rem;
+}
+
+
+.footer_quick-links h6 span i{
+    color: var(--secondary-color);
+    font-size: 1.1rem;
+}
+.copyright{
+    color: var(--text-color);
+    font-size: 1rem;
+}
