@@ -1,0 +1,51 @@
+*{
+
+    font-family: 'Roboto', sans-serif; 
+}
+
+.rsc-ts-bubble {
+    margin-top: 3px;
+    background-color: rgb(241, 161, 40);
+    color: black;
+    max-width:250px; 
+    word-wrap: break-word;
+  }
+  .rsc-header {
+    background-color: rgb(241, 161, 40);
+    color: black;
+ 
+    font-weight: 100;
+  }
+  .rsc-input {
+    background-color: rgb(241, 161, 40);
+   color: black; 
+}
+
+
+.rsc-os-option-element{
+    background-color: rgb(238, 161, 19);
+    color: black;
+}
+.ui.segment{
+  background-color: transparent;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+.chat-message {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+}
+.jKLQUD {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 2px 0px;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background: rgb(255, 255, 255);
+  border-radius: 5px;
+  margin: 0px 6px 10px;
+  padding: 16px;
+}

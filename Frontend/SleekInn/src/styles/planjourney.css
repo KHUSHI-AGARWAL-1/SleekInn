@@ -1,0 +1,48 @@
+.plan-container {
+    background-color: rgb(238, 161, 19);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.input-field {
+    padding: 7px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+}
+.input-field:focus {
+    outline: none; 
+}
+.submit-button {
+    padding: 7px;
+    margin: 5px;
+    width: 80px;
+    border-radius: 4px;
+    font-weight: 800;
+    border: none;
+    background-color: white;
+    color: rgb(233, 159, 22);
+    cursor: pointer;
+}
+.submit-button:hover{
+    background-color: rgb(245, 147, 0);
+    color: black;
+}
+.loading-text {
+
+    color: black;
+    font-size: large;
+    margin-top: 10px;
+}
+
+.itinerary {
+    white-space: pre-wrap;
+    margin-top: 10px;
+}
+h2:first-child{
+    margin-top: 10px;
+}
+
